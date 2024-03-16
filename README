@@ -1,0 +1,9 @@
+In main.cpp the code to put cin and cout on the same line was obtained from this source
+https://stackoverflow.com/questions/46576718/how-do-i-put-a-cout-and-a-cin-on-the-same-line
+
+In command.cpp the len() and split() functions are used to split a line into an array of strings.
+The code is not mine and I copy and pasted the code from the following source:
+https://www.javatpoint.com/how-to-split-strings-in-cpp
+
+In process.cpp the information to build the formatted string using sprintf was obtained from this source
+https://stackoverflow.com/questions/53230155/converting-pid-t-to-string
